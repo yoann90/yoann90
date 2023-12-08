@@ -89,12 +89,12 @@
 <br>
 <div align=center>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=yoann90&show_icons=true&theme=tokyonight" />
+  <img   src="https://github-readme-stats.vercel.app/api?username=yoann90&show_icons=true&theme=tokyonight" />
     
- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+ <img     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoann90&count_private=true&theme=react&border_radius=10&theme=tokyonight" alt="streak stats"/> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann90&layout=donut&theme=tokyonight" />
+<img  top="10"  align="cneter" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann90&layout=donut&theme=tokyonight" />
   <br/>
 
 </div>
