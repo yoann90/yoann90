@@ -94,7 +94,7 @@
  <img     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoann90&count_private=true&theme=react&border_radius=10&theme=tokyonight" alt="streak stats"/> 
 
 
-<img  top="10"  align="cneter" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann90&layout=donut&theme=tokyonight" />
+<img    align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoann90&layout=donut&theme=tokyonight" />
   <br/>
 
 </div>
