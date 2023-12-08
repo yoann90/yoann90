@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 Je travaille actuellement sur  **e-commerce website**
+ 🔭 Je travaille actuellement sur un site  **e-commerce**
  
  🌱 J'apprends actuellement **React, Express**
 
